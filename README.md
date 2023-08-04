@@ -1,7 +1,9 @@
 # ancestryinformativemarkers
 Public AIMs
 
-Most SNPs in genes are actually not that helpful for population stratification, being under selective pressure, so here are some ancestry informative snps that actually distinguish populations
+Most SNPs in genes are actually not that helpful for population stratification, being under selective pressure, so here are some ancestry informative snps that actually distinguish populations.
+
+Also, you are not supposed to overload a PCA with SNPs that are already in LD.
 
 These are in hg38
 
