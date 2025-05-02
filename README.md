@@ -7,7 +7,7 @@ Also, you are not supposed to overload a PCA with SNPs that are already in LD.
 
 These are in hg38
 
-- UTAIM250 https://github.com/chenlabgccri/UT-AIM250
+- UTAIM250 https://github.com/chenlabgccri/UT-AIM250 (also see https://github.com/radygenomics/AIM250-FOUR-CLADE/)
 - Visage https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8391248/
 - Seldin https://pubmed.ncbi.nlm.nih.gov/18683858/
 
